@@ -2,4 +2,4 @@
 
 
 
-app link : https://salary-prediction12-a.herokuapp.com/predict
+app link : https://salary-prediction12-a.herokuapp.com/
